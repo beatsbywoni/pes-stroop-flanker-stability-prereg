@@ -1,0 +1,75 @@
+{
+ "n_per_task": 43,
+ "scenarios": {
+  "study1_point": {
+   "Stroop": [
+    0.66,
+    0.79,
+    0.76
+   ],
+   "Flanker": [
+    0.5,
+    0.62,
+    0.83
+   ]
+  },
+  "higher_rel": {
+   "Stroop": [
+    0.66,
+    0.85,
+    0.85
+   ],
+   "Flanker": [
+    0.5,
+    0.8,
+    0.85
+   ]
+  },
+  "rho_.75": {
+   "Stroop": [
+    0.75,
+    0.8,
+    0.8
+   ],
+   "Flanker": [
+    0.75,
+    0.75,
+    0.8
+   ]
+  },
+  "rho_.85": {
+   "Stroop": [
+    0.85,
+    0.8,
+    0.8
+   ],
+   "Flanker": [
+    0.85,
+    0.75,
+    0.8
+   ]
+  }
+ },
+ "power": {
+  "study1_point": {
+   "mean": 0.8,
+   "Stroop": 0.7075,
+   "Flanker": 0.6925
+  },
+  "higher_rel": {
+   "mean": 1.0,
+   "Stroop": 0.945,
+   "Flanker": 0.9925
+  },
+  "rho_.75": {
+   "mean": 0.765,
+   "Stroop": 0.6125,
+   "Flanker": 0.5125
+  },
+  "rho_.85": {
+   "mean": 0.3975,
+   "Stroop": 0.29,
+   "Flanker": 0.265
+  }
+ }
+}
